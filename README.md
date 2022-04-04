@@ -13,3 +13,6 @@ b. No of participants is less than 2
 2. An interviews list page where admin can see all the upcoming interviews.
 3. An interview edit page where admin can edit the created interview with the same
 validations as on the creation page.
+
+### Project
+Developed this using Java Spring.
